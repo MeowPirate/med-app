@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/med-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/med-app/static/js/main.34eb5194.chunk.js",
+    "main.js.map": "/med-app/static/js/main.34eb5194.chunk.js.map",
+    "runtime-main.js": "/med-app/static/js/runtime-main.f6fabf4b.js",
+    "runtime-main.js.map": "/med-app/static/js/runtime-main.f6fabf4b.js.map",
+    "static/js/2.69852900.chunk.js": "/med-app/static/js/2.69852900.chunk.js",
+    "static/js/2.69852900.chunk.js.map": "/med-app/static/js/2.69852900.chunk.js.map",
+    "static/js/3.419396ed.chunk.js": "/med-app/static/js/3.419396ed.chunk.js",
+    "static/js/3.419396ed.chunk.js.map": "/med-app/static/js/3.419396ed.chunk.js.map",
+    "index.html": "/med-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/med-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.69852900.chunk.js.LICENSE.txt": "/med-app/static/js/2.69852900.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/med-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6fabf4b.js",
+    "static/js/2.69852900.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.34eb5194.chunk.js"
+  ]
+}
